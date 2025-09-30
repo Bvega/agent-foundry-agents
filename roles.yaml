@@ -1,0 +1,1 @@
+- name: Strategist\n  charter: Define objectives and constraints\n  duties:\n    - clarify goals\n    - identify tradeoffs\n    - outline plan\n- name: Creator\n  charter: Draft deliverables\n  duties:\n    - outline\n    - write\n    - polish\n- name: QA\n  charter: Sanity-check outputs\n  duties:\n    - flag risks\n    - edit for clarity\n    - propose next steps\n
